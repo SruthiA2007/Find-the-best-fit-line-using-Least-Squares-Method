@@ -24,7 +24,8 @@ Developed by:SRUTHI A
 Register Number:212224240162  
 */
 
-![Screenshot 2025-03-06 230444](https://github.com/user-attachments/assets/5a8490a0-7857-419b-b235-03d560b3be41)
+![image](https://github.com/user-attachments/assets/7106bfc7-af2c-407d-acf0-03c84ba744e2)
+
 
 
 
