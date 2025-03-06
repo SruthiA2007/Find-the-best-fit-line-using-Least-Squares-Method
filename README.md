@@ -30,7 +30,9 @@ Register Number:212224240162
 
 ## Output:
 ![best fit line](sam.png)
-![Screenshot (81)](https://github.com/user-attachments/assets/70985d72-0b56-46c0-9085-1418b1f8df55)
+
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/4e660a7b-5938-4f0a-9e0e-e4d9ede27c63" />
+
 
 
 
